@@ -20,7 +20,7 @@ The dashboards included in this repository are listed below.
 Each dashboard has its own dedicated README file with details about the dataset, design decisions, and insights.
 
 ## Data Jobs Dashboard (V1 - Comprehensive Exploration)
-![Data Jobs Dashboard](/images/Data%20Job%20Dashboard%20Screenhot.png)
+![Dashboard Page 1](/Images/Data%20Job%20Dashboard%20Screenhot.png)
 
 **Key Power BI Skills Utilized:**
 * Dashboard Layout & Design
@@ -42,7 +42,7 @@ Each dashboard has its own dedicated README file with details about the dataset,
 **Key Power BI Skills Utilized:**
 * Advanced Dashboard Design
 * Complex Power Query Transformations
-* star Schema Data Modeling Principles
+* Star Schema Data Modeling Principles
 * Explicit DAX Measures (e.g., `CALCULATE`, context modifiers)
 * Dynamic Visualizations (driven by Parameters/ Slicers)
 * Field & Numeric Parameter Implementation for "What-If" Analysis
